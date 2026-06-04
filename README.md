@@ -88,8 +88,8 @@ Este projeto é open source e pode ser utilizado livremente para fins educaciona
 ## 👨‍💻 Autor
 
 **Danilo Santos**  
-🐙 GitHub: https://github.com/danilo-santos-python  
-🌐 Repositório: https://github.com/danilo-santos-python/todolist-webapp
+🐙 GitHub: https://github.com/danilo-santosdev
+🌐 Repositório: https://github.com/danilo-santosdev/todolist-webapp
 
 ---
 
