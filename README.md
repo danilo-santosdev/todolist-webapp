@@ -19,7 +19,7 @@ Uma aplicação funcional de lista de tarefas (**To-Do List**) desenvolvida em *
 
 ## 🚀 Demonstração Online
 
-🔗 [Acesse o app hospedado no Streamlit](https://todolist-webapp-danilosantosdev.streamlit.app//)
+🔗 [Acesse o app hospedado no Streamlit](https://todolist-webapp-danilo-santosdev.streamlit.app//)
 
 ---
 
